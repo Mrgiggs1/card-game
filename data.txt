@@ -1,0 +1,5 @@
+James:AH,3C,8C,2S,JD
+Robert:KD,QH,TC,4C,AC
+Mike:6S,8D,3D,JH,2D
+Lebo:5H,3S,KH,AS,9D
+Teishi:JS,3H,2H,5C,4D

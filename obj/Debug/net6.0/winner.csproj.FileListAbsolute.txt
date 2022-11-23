@@ -1,0 +1,15 @@
+C:\Users\LATITUDE 5480\Desktop\cards\winner\bin\Debug\net6.0\winner.exe
+C:\Users\LATITUDE 5480\Desktop\cards\winner\bin\Debug\net6.0\winner.deps.json
+C:\Users\LATITUDE 5480\Desktop\cards\winner\bin\Debug\net6.0\winner.runtimeconfig.json
+C:\Users\LATITUDE 5480\Desktop\cards\winner\bin\Debug\net6.0\winner.dll
+C:\Users\LATITUDE 5480\Desktop\cards\winner\bin\Debug\net6.0\winner.pdb
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.csproj.AssemblyReference.cache
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.AssemblyInfoInputs.cache
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.AssemblyInfo.cs
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.dll
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\refint\winner.dll
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.pdb
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\winner.genruntimeconfig.cache
+C:\Users\LATITUDE 5480\Desktop\cards\winner\obj\Debug\net6.0\ref\winner.dll
